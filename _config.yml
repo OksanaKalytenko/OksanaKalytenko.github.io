@@ -38,7 +38,7 @@ social_media:
   linkedin: oksana-kalytenko-546515119
   # mastodon: your_username
   medium: oxannemiu
-  kaggle: oks_mew
+  kaggle: oksanakalytenko
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
@@ -50,15 +50,12 @@ social_media:
 topics:
   - name: Finance
     web_url: https://github.com/topics/finance
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/finance/finance.png
     
   - name: Data Science
     web_url: https://github.com/topics/data-science
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/data-science/data-science.png
     
   - name: Machine Learning
     web_url: https://github.com/topics/machine-learning
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/machine-learning/machine-learning.png
 
   - name: Python
     web_url: https://github.com/topics/python

@@ -11,12 +11,12 @@
   border-color:#24292e !important;
 }
 
-a {
-  color: #429bff!important;
+.github-component a {
+  color: #00aa00!important;
 }
 
 //Adjust colors for better dark mode
-.github-component h1, .github-component span:not(.repo-language-color), .github-component a, .github-component p {
+.github-component h1, .github-component span:not(.repo-language-color), .github-component p {
   color: #fff!important;
 }
 

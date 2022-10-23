@@ -1,6 +1,9 @@
 layout: sidebar
 style: dark
 
+title: Oksanas Portfolio
+description: Oksanas Projects and Interests
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata

@@ -50,6 +50,7 @@ social_media:
 topics:
   - name: Finance
     web_url: https://github.com/topics/finance
+    image_url: https://github.com/google/material-design-icons/raw/f7bd4f25f3764883717c09a1fd867f560c9a9581/png/editor/candlestick_chart/materialiconsoutlined/48dp/2x/outline_candlestick_chart_black_48dp.png
     
   - name: Data Science
     web_url: https://github.com/topics/data-science
